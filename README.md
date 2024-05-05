@@ -50,5 +50,6 @@ python instagram.py -u <username> -p <passlist>
 
 
 # Demo
+![Farmers Market Finder - Animated gif demo](document/2024-05-05_14-47-34.gif)
 
 
