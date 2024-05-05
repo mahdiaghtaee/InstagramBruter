@@ -27,6 +27,7 @@ This gives an insight into the health of the proxies in the database.
 python instagram.py -u <username> -p <passlist>
 
 # Run
+```
 [-] Wordlist: passlist.txt
 [-] Username: sss.1
 [-] Password: 272
@@ -34,8 +35,10 @@ python instagram.py -u <username> -p <passlist>
 [-] Attempts: 228
 [-] Browsers: 273
 [-] Exists: True
+```
 
 # Stop
+```
 [-] Wordlist: passlist.txt
 [-] Username: sss.1
 [-] Password: sss.123
@@ -43,10 +46,13 @@ python instagram.py -u <username> -p <passlist>
 [-] Attempts: 314
 [-] Browsers: 185
 [-] Exists: True
+```
 
+```
 [!] Password Found
 [+] Username: sss.1
 [+] Password: sss.123
+```
 
 
 # Demo
