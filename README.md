@@ -7,5 +7,18 @@ The system needs a list of proxies to work. Once uploaded, proxies are saved int
 # Upload
 Upload a list of proxies into the program. The proxy file must have a format of ip:port
 proxies_list.txt
-
+```
 python.exe .../instagram.py -px .../proxies_list.txt
+```
+```
+172.67.190.88:80
+172.64.18.156:80
+98.162.25.7:31653
+98.178.72.21:10919
+```
+
+# Stats
+This gives an insight into the health of the proxies in the database.
+```
+.../python.exe .../instagram.py --stats
+```
