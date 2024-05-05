@@ -47,3 +47,8 @@ python instagram.py -u <username> -p <passlist>
 [!] Password Found
 [+] Username: sss.1
 [+] Password: sss.123
+
+
+# Demo
+
+
