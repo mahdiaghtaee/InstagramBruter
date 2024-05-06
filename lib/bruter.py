@@ -1,7 +1,3 @@
-# Date: 12/28/2018
-# Author: Mohamed
-# Description: Bruter
-
 import queue
 import time
 import threading
