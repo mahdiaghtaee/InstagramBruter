@@ -1,7 +1,3 @@
-# Date: 12/28/2018
-# Author: Mohamed
-# Description: Browser
-
 import typing
 from time import time
 from random import choice
